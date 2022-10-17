@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Toni Alves</h1>
-<h3 align="center">A passionate backend developer, without limits to learn</h3>
+<h3 align="center">A passionate backend developer, without limits to learn new technologies.</h3>
 
-- 🌱 I’m currently learning **React JS**
+- <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> I’m currently learning **React**
+- <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> I’m currently learning **Laravel**
 
 <h3 align="left">Connect with me:</h3>
 
